@@ -1,27 +1,27 @@
-# Hello World
-## Á¦¸ñ2
-### Á¦¸ñ3 
-*°­Á¶*ÇÑ ±ÛÀÚ
-**°­Á¶2**ÇÑ ±ÛÀÚ 
-~~ÀÌ°Ç Ãë¼Ò~~
-* Áß½Ä
-  * Â¥Àå¸é
-  * Â«»Í
-  * ÅÁ¼öÀ° 
-1. ÀÏ½Ä
-   1. ÃÊ¹ä
-   1. ´þ¹ä
-   1. µ·±î½º 
-![±¸±Û ·Î°í](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+# GitHub README.md 
+## ì œëª©2
+### ì œëª©3 
+*ê°•ì¡°*í•œ ê¸€ìž
+**ê°•ì¡°2**í•œ ê¸€ìž 
+~~ì´ê±´ ì·¨ì†Œ~~
+* ì¤‘ì‹
+  * ì§œìž¥ë©´
+  * ì§¬ë½•
+  * íƒ•ìˆ˜ìœ¡ 
+1. ì¼ì‹
+   1. ì´ˆë°¥
+   1. ë¥ë°¥
+   1. ëˆê¹ŒìŠ¤ 
+![êµ¬ê¸€ ë¡œê³ ](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-[±¸±Û·Î °¡±â](https://google.co.kr/)
+[êµ¬ê¸€ë¡œ ê°€ê¸°](https://google.co.kr/)
 
-> `°øÀÚ` °¡¶ó»ç´ë... 
-> ±Ã½Ã··±Ã½Ã··~~ 
+> `ê³µìž` ê°€ë¼ì‚¬ëŒ€... 
+> ê¶ì‹œë ê¶ì‹œë ~~ 
 > 
-> from `³í¾î` 
+> from `ë…¼ì–´` 
 
-`ÆÄÀÏÅ½»ö±â`¸¦ ¿­·Á¸é `À©µµ¿ìÅ° +  e`¸¦ ´©¸£¼¼¿ä.
+`íŒŒì¼íƒìƒ‰ê¸°`ë¥¼ ì—´ë ¤ë©´ `ìœˆë„ìš°í‚¤ +  e`ë¥¼ ëˆ„ë¥´ì„¸ìš”.
 
 ```php
 <?php
@@ -35,17 +35,17 @@ class Hello{
   }
 }
 ```
-### ¸Ô°í½ÍÀº °Í
-- [ ] ¶±ººÀÌ
-- [ ] ÇÇÀÚ
-- [x] Ä¡Å²
+### ë¨¹ê³ ì‹¶ì€ ê²ƒ
+- [ ] ë–¡ë³¶ì´
+- [ ] í”¼ìž
+- [x] ì¹˜í‚¨
 
-### °¡¼ö 
-°¡¼öÀÌ¸§ | ¼ºº° 
+### ê°€ìˆ˜ 
+ê°€ìˆ˜ì´ë¦„ | ì„±ë³„ 
 ---------- | -----
- ¼­ÅÂÁö¿Í ¾ÆÀÌµé | ³²ÀÚ
-ÀÚ¿ì¸² | ¿©ÀÚ
-º¸ÀÌÁî | ¿©ÀÚ
-ÀÌ´ÞÀÇ ¼Ò³à | ³²ÀÚ 
+ ì„œíƒœì§€ì™€ ì•„ì´ë“¤ | ë‚¨ìž
+ìžìš°ë¦¼ | ì—¬ìž
+ë³´ì´ì¦ˆ | ì—¬ìž
+ì´ë‹¬ì˜ ì†Œë…€ | ë‚¨ìž 
 
 :angry::angry::angry::angry::angry:
